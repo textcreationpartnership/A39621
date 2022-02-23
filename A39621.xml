@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Five important queries humbly propounded to all true lovers of the peace and safety of the church and state by a sincere well-wisher to the old Protestant religion.</title>
+            <author>Sincere well-wisher to the old Protestant religion.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A39621</idno>
+            <idno type="STC">Wing F1107</idno>
+            <idno type="STC">ESTC R10898</idno>
+            <idno type="EEBO-CITATION">11994399</idno>
+            <idno type="OCLC">ocm 11994399</idno>
+            <idno type="VID">52061</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A39621)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 52061)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 563:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Five important queries humbly propounded to all true lovers of the peace and safety of the church and state by a sincere well-wisher to the old Protestant religion.</title>
+                  <author>Sincere well-wisher to the old Protestant religion.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nathaniel Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1681.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:52061:1"/>
+            <pb facs="tcp:52061:1" rendition="simple:additions"/>
+            <p>FIVE IMPORTANT QUERIES Humbly Propounded To all true Lovers of the Peace and Safety OF THE CHURCH AND STATE.</p>
+            <p>By a ſincere Well-wisher to the Old <hi>Proteſtant</hi> Religion.</p>
+            <q>
+               <p>
+                  <hi>Volutus Lapis nunquam capit Muſcum.</hi>
+               </p>
+               <p>Often Changes preſume Death at hand.</p>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Nathaniel Thompſon</hi> next Dore to the <hi>Croſs Keys</hi> in <hi>Fetter-Lane,</hi> MDCLXXXI.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:52061:2"/>
+            <pb n="1" facs="tcp:52061:2"/>
+            <head>FIVE IMPORTANT QUERIES Humbly Propounded</head>
+            <head type="sub">To all true Lovers of the Peace and Safety of the CHURCH and STATE.</head>
+            <p n="1">I. WHether it be <hi>neceſſary</hi> to endeavour any Altera<g ref="char:EOLhyphen"/>tion in the Church, in this Juncture of Affairs, conſidering, 1. There is nothing practis'd in it contrary to any known Commandments of God: 2. Nor can its bittereſt Adverſaries affirm, that its Communion hinders the ſalvation of mens ſouls: 3. Nor doth its continuance croſs the Laws of the Land (as the practice of all other Sects do) ſince 'tis eſtabliſhed by the Law: 4. Nor is there any evil at preſent, or greater danger, then hath been for ſome years laſt paſt, from the parties of either ſide, to haſten ſuch alteration: 5. But ſuch alteration may ſoon move Aſperities of either ſide, great enough to endanger the State.</p>
+            <p n="2">II. Whether it be <hi>profitable</hi> to endeavour ſuch Alteration, conſidering, 1. The parties are of both ſides as much engaged againſt the <hi>Papists</hi> at preſent, as ever they will be in their Union. 2. The fierceſt and rigideſt of the Sects can never unite, but by utter deſtruction of the Church: For the <hi>Qua<g ref="char:EOLhyphen"/>kers</hi> deny all Sacraments, and can't mix with them that are for them, ſince they are matter of daily and perſonal practice. The <hi>Anabaptists</hi> cannot cloſe, for then <hi>England</hi> muſt be all un-Churched and un-Chriſtianed; or they muſt forſake their principles. Nor can the <hi>Independents;</hi> for they profeſs none can be a Church of Chriſt, but what are gathered by their own conſent, and make an explicite Covenant, and exerciſe all juriſdiction in a ſingle Congregation, which is inconſiſtent
+<pb n="2" facs="tcp:52061:3"/>with the Conſtitution of this Church. 3. The <hi>Presbyterians,</hi> as they are few in number, (if any) ſo can they not aſſure the Law-alterers, to bring any of their people to our Communi<g ref="char:EOLhyphen"/>on, after all pretended alterations made. 1. Becauſe they are bred up in a perfect averſion from Liturgies. 2. Becauſe they are too proud to held themſelves with the vulgar. 3. They love to ſeem more Religious than their Neighbours. 4. They hold Gods people to be a little Flock ſeparated from the world; and conclude they muſt have a world to rail at, and diſtinguiſh themſelves from, tho' it be from Chriſtians baptized, and profeſſing the true Faith; and that they cannot go with the multitude of believers, but to do evil; and muſt contend with Magiſtracy, that through many tribulations they may enter into the Kingdom of God; and ſo ungovernable, that their own Teachers affirm they can't rule them. So that it were prudence in Law-makers to take a Liſt of their Names, ſubſcribed by themſelves, that would unite upon ſuch abate<g ref="char:EOLhyphen"/>ments, leſt they ſhould toyl all day and get nothing. 4. 'Tis certain when <hi>Presbytery</hi> was nigh eſtabliſhing in 1645 with<g ref="char:EOLhyphen"/>out Ceremonies or Liturgies, the Diſſenters ſwarmed, and ar<g ref="char:EOLhyphen"/>med againſt them as faſt as now, and found occaſions enough of diſputing and ſeparating. Nor is there at preſent any Litur<g ref="char:EOLhyphen"/>gy or Ceremony in the Church of <hi>Scotland,</hi> but the Field-Conventiclers, and the Regular Clergy, pray and preach without diſtinction, in the ſame method; yet is the ſeparation ſtrenuouſly kept up upon other grounds, when Liturgy and Ceremonies were taken away. So that the profit of alteration is not like to quit the coſt; beſides the offence it may give to the ſerious Conformiſt, who ſhould not be valued the leſs for being tender of diſobedience to Authority. And 5. 'Tis moſt unreaſonable to hope, when the Law is relaxed to male-con<g ref="char:EOLhyphen"/>tents, that conqueſt over the Laws ſhould make them more humble or peaceable, for it will ſeem to them a victory over King, Lords and Commons, to make them more inſolent.</p>
+            <p n="3">III. Whether it be <hi>expedient</hi> at this time to attempt ſuch Alteration, conſidering, 'twas but 18 years ſince the Churches
+<pb n="3" facs="tcp:52061:3"/>laſt Settlement, and the ſame men for the moſt part are ſtill in the Legiſlation, who either acted then with mature conſidera<g ref="char:EOLhyphen"/>tion, or not: if they did, what accident ſince ſhould make them attempt a change? Are there more Sectaries than at that time? or fewer Conformiſts? or is the Liturgy and Ceremonies grown worſe than they were? Or the Diſſenters more peacea<g ref="char:EOLhyphen"/>ble and humble? or is there greater danger in continuing, than there was in firſt ſettling the Church? But if not done with due conſcience and regard, it is a ſad reproach to the Le<g ref="char:EOLhyphen"/>giſlators, nor can they ſecure us that greater care will be taken now, ſince they implicitly confeſs they prevaricated before: beſides the diſhonour will reflect on the King of Levity and Inconſtancy in the great Affairs of Religion, to alter its Modes faſter than Faſhions. 2. Such Alterations will caſt a blur on the Reformation, and diſturb the aſhes of our pious Martyrs, as men that ſettled a Religion and ſealed it with their bloud, which a good conſcience could not comply withal. 3. It will ju<g ref="char:EOLhyphen"/>ſtifie the <hi>Papists</hi> in their ſufferings, and condemn our whole Laws and National Juſtice; that we ſhould puniſh them ſo ma<g ref="char:EOLhyphen"/>ny years for not coming to Church, and complying with a Religion that now our ſelves think fit to be exploded; and the parties to be gratified, declare, that no man with a good con<g ref="char:EOLhyphen"/>ſcience can comply withal; a greater wound than which can<g ref="char:EOLhyphen"/>not be given to the whole <hi>Engliſh</hi> Nation, nor a fairer palm of victory to the <hi>Papists,</hi> (thus made) Martyrs or Confeſſors at the leaſt.</p>
+            <p n="4">IV. It will be of very ill conſequence to all ſorts: For 1. when Scruplers ſhall find they can maſter Laws, and get their wills over Authority, it will encourage and increaſe ſcru<g ref="char:EOLhyphen"/>pling, yea even to the ruine of them that are now to be gra<g ref="char:EOLhyphen"/>tified, for others by their example will hope to riſe by the ſame evil Arts. 2. And for the common people, it will take off their reverence to Religion, by ſeeing it repreſented ſo trifling, light and changeable; and ſo will tempt them to believe there is no God, by reaſon of the Tricks and Experiments the State makes with his worſhip; nor will they much value at any time what
+<pb n="4" facs="tcp:52061:4"/>they ſee kickt about like a Foot-ball, and win think any Set<g ref="char:EOLhyphen"/>tlement will be in faſhion but for a few years, and thence reckoned evil and ridiculous. 3. Yea, the wiſeſt and beſt of men will ſtumble, when they ſee the way of Religion, in which they have for many years comfortably worſhipt God, now at laſt in a hurry hiſſed out of the world by prevailing Faction. 5. The <hi>Roman</hi> Factors make all the profit; for that mighty Argument that hath perverted thouſands already will now be ſtronger, That there is no Settlement, union or peace any where but in the <hi>Roman</hi> Church, nor any ſteady Religion elſe to place themſelves under, ſeeing us toſs and tumble our Worſhip from one mode to another, as the Tumble alters his poſtures; thus we take pains to drive Fiſh into the Popes Net. Beſides which, it will wonderfully harden and encourage the <hi>Papiſts,</hi> when they ſhall ſee us not only to reject their Errors, Novelties and Superſtitions, but even the grave uſages of the Primitive Church: ſo that they will conclude we walk by no Rule but our own wills, and are Nonconformiſts not only to their Church, but to all ſince Chriſtianity begun in the world. Yea, when our people ſhall ſee Parliaments ſo apt to change the ſhapes of our Worſhip, they will ſuſpect that when occa<g ref="char:EOLhyphen"/>ſion ſerves, they will bring up the old <hi>Roman</hi> mode, as they did in the firſt year of Queen <hi>Mary,</hi> which may tempt the people to prepare themſelves for it againſt the time.</p>
+            <p n="4">IV. Whether it be <hi>lawful</hi> for Parliaments ſo often, and without being called on by the Church Repreſentatives, to at<g ref="char:EOLhyphen"/>tempt thoſe Alterations, conſidering, 1. The Laws of God condemn ſuch as are given to change, and all that are buſie-bodies in other mens Matters, and require ſubmiſſion in all lawful things, with meekneſs and lowlineſs of mind, the Spirit directing Chriſtians to give themſelves up to the Lord, and then to the guidance of the Church, 2 <hi>Cor.</hi> 8.5. by the will of God, whoſe faith the Saints were bound to follow, <hi>Heb.</hi> 13.7. and not to meddle with doubtful diſputations, <hi>Rom.</hi> 14.1. and much leſs to attempt perpetual Alterations. 2. The Law of Nature made all the Ceremonies of Religion unalterable<g ref="char:punc">▪</g>
+               <pb n="5" facs="tcp:52061:4"/>unleſs on very great occaſion, as may be ſeen in all Mythodo<g ref="char:EOLhyphen"/>giſts. 3. Right Reaſon aſſures us that what we do without juſt cauſe, we have ſome unjuſt cauſe for it, as prejudice, partiality paſſion, or the like. 4. The Law of the Land forbids it, while the great Charter ſecures the Church all its priviledges, one of which was to be firſt and chief in all Matters of Religion; and what alterations were made, did owe their riſe to them, the ſecular Power followed their Decrees with the civil Sanction. 5. It looks very odd, that at every Election of a new Parliament, we ſhould put our Bodies and Souls, Religi<g ref="char:EOLhyphen"/>on and Worſhip, as well as Liberty and Property, into the hands of our Repreſentatives, whom we chooſe on the Kings Writ, to be as Arbitrators for us in thoſe things, that the King at that time hath to propound; <hi>England</hi> rather takes Parlia<g ref="char:EOLhyphen"/>ments for a Civil then Spiritual Court. How would a good Conſcience tremble when a Parliament ſits down, to think that now the Worſhip of God is in danger to be blaſted by a major Vote? The Ark of God would totter at every ſuch Aſſembly.</p>
+            <p n="5">V. Laſtly, Whether it be <hi>fair dealing</hi> to attempt ſuch Al<g ref="char:EOLhyphen"/>terations, conſidering, 1. That the Body of the people of all ranks and degrees, chearfully complyed with the Settlement, in hope to live peaceably all their days under it, and to be no longer diſtracted with endleſs diviſions, but to reſt themſelves here as in the true Ark of God: But ſuch Alterations thruſt them into the Flouds again, and charge them as men of no Conſcience, for embracing that way of Worſhip, that is now thought fit for nothing but the dunghil; and ſend them to ſeek ſome new Aſſemblies to march along with to Heaven, in the midſt of infinite diſtractions, and expoſes them to the ſcorn of Diſſenters, that will deride their Chriſtian humility for baſe and cowardly complyance, <hi>&amp;c.</hi> a ſad requital for their holy and humble demeanour. 2. The Clergy whoſe Confor<g ref="char:EOLhyphen"/>mity will ſeem their ſcandal, and their many Declarations and Subſcriptions, be accounted but as ſo many unconſcionable ownings of a way of Worſhip, not fit to be endured by Chri<g ref="char:EOLhyphen"/>ſtians.
+<pb n="6" facs="tcp:52061:5"/>And the moſt ſtubborn and rebellious Schiſmatick be judged the better man, yea, their meekneſs, obedience, and peaceable behaviour, will be reckoned baſe complyances with falſe ways of Worſhip, while the pride and ſtubbornneſs of the Sectary will paſs for Chriſtian fortitude, the injuſtice of which will haply be equall'd by nothing but the ſentence of <hi>Pilate</hi> upon our Saviour.</p>
+            <p>Now for a Concluſion, we may Query, Whether it would not turn much more to the advantage of Piety and Peace, that each Biſhop be urged to reſide at his Cathedral, and at<g ref="char:EOLhyphen"/>tend his Conſiſtory, that all Cauſes may be decided with grea<g ref="char:EOLhyphen"/>ter juſtice, and the Cenſures of Chriſt be managed with juſt and holy hands: And in caſe of neceſſary abſence, that the Dean, and 4 or 3 at leaſt of the graveſt Prebends, as Co-aſſeſ<g ref="char:EOLhyphen"/>ſors, ſupply his place, that Righteouſneſs may run down like water, and Judgment like a mighty ſtream, to refreſh the Church of God, and bring it to its due and true Reverence; which being a way of Chriſts Inſtitution, is more likely to re<g ref="char:EOLhyphen"/>cover ſtraying Sheep, then all annihilation of Laws to unite them in I know not what ill-tempered Syncretiſm. Nor can ſuch Biſhop want judicious and acceptable <hi>Presbyters,</hi> to ſend amongſt the Diſſenters, to convert them from their Errors, and to convince them of the dangerous eſtate of Schiſm, in which they ſtand, if induſtriouſly proſecuted. By this means chiefly the ancient Schiſms were demoliſhed, and Peace and Unity reſtored to the Church; but never by caſſating the Laws, to make the Malefactors behaviour not illegal, whilſt he continues in his ſtubbornneſs without repentance or amend<g ref="char:EOLhyphen"/>ment, the ſecular arm ſtill inflicting ſome ſmall penalty, that men may not ſin out of wantonneſs.</p>
+            <p>This is written plainly to all Capacities, and ſincerely, de<g ref="char:EOLhyphen"/>ſigning to prevent thoſe horrid Miſchiefs, that will attend theſe deſigned Alterations, whenever they are made. God grant ſuch a judgment to be made of it by our Rulers, as the Matter deſerves.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:52061:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
